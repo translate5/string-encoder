@@ -1,7 +1,7 @@
 {
     "name": "translate5/string-encoder",
     "type": "library",
-    "description": "A Fork of the paquettg/string-encoder PHP HTML-parser to be able to support newer PHP versions",
+    "description": "A Fork of the paquettg/string-encoder string encoder to be able to support newer PHP versions",
     "keywords": ["encoding", "charset", "string", "tranlate5"],
     "license": "MIT",
     "authors": [
