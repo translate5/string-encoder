@@ -1,15 +1,13 @@
 {
-    "name": "paquettg/string-encode",
+    "name": "translate5/string-encoder",
     "type": "library",
-    "description": "Facilitating the process of altering string encoding in PHP.",
-    "keywords": ["encoding", "charset", "string"],
-    "homepage": "https://github.com/paquettg/string-encoder",
+    "description": "A Fork of the paquettg/string-encoder PHP HTML-parser to be able to support newer PHP versions",
+    "keywords": ["encoding", "charset", "string", "tranlate5"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Gilles Paquette",
-            "email": "paquettg@gmail.com",
-            "homepage": "http://gillespaquette.ca"
+            "name": "Axel Becher",
+            "email": "axel@mittagqi.com"
         }
     ],
     "require": {
@@ -18,8 +16,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4",
-        "mockery/mockery": "^1.3",
-        "phan/phan": "^3.2",
+        "mockery/mockery": "^1.6.7",
+        "phan/phan": "^5.4.0",
         "friendsofphp/php-cs-fixer": "^2.16",
         "php-coveralls/php-coveralls": "^2.4.2"
     },
